@@ -10,3 +10,5 @@
  */
 
 //PRIMEIRA TAREFA REALIZADA
+using FixacaoConceitosBasicos1.Model;
+Console.WriteLine("Soma de 2 + 3 = " + SomaDoisNumeros.Somar(2, 3));
